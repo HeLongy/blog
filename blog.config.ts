@@ -12,9 +12,9 @@ const blogConfig = {
 	// 长 description 利好于 SEO
 	description: '硅基漫游指南，分享技术与生活。这个博客记录了在生活和技术学习中的点滴经历，网站界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域。',
 	author: {
-		name: 'HeLongaa',
-		avatar: 'https://weavatar.com/avatar/fc07e57f116ab3f3107dbaab1ceb8fc953557ff816a0ebdef9769241c32d5825?sha256=1&d=mp&s=240',
-		email: 'helong_001@qq.com',
+		name: 'HeLongy',
+		avatar: 'https://avatars.githubusercontent.com/u/246218108?v=4',
+		email: 'helongaa@yeah.net',
 		homepage: 'https://helong.online',
 	},
 	copyright: {

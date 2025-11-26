@@ -1,5 +1,13 @@
 <!-- eslint-disable vue/block-lang -->
 <script setup>
+const layoutStore = useLayoutStore()
+const route = useRoute()
+
+// 监听路由变化，自动关闭所有面板并解锁滚动
+watch(() => route.path, () => {
+	layoutStore.closeAll()
+})
+
 onUnmounted(() => {
 	if (typeof document !== 'undefined') {
 		document.body.style.overflow = ''

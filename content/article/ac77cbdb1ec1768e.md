@@ -4,7 +4,7 @@ description: docker使用中产生的数据会让docker的数据目录越来越�
 date: 2025-05-09 03:55:25
 categories: [开发运维]
 tags: [Server,Docker]
-image: "https://oss.helong.online/bucket-IMG/20db800c4fb951c13af9a880bdb5812ae2c9526808fda15d24b6cd74c1453e54.png"
+image: https://bu.dusays.com/2025/11/26/6926a61230166.png
 ---
 
 ## 挂载数据盘
@@ -17,7 +17,7 @@ image: "https://oss.helong.online/bucket-IMG/20db800c4fb951c13af9a880bdb5812ae2c
 
 ::pic
 ---
-src: https://oss.helong.online/bucket-IMG/9ca4c0a768586c195b8deff83a81d6c00c22dd4fb4122384fe3233a6b39242d0.png
+src: https://bu.dusays.com/2025/11/26/6926a624e3778.png
 mirror: true
 caption: 磁盘分区查看结果显示
 ---
@@ -41,7 +41,7 @@ caption: 磁盘分区查看结果显示
 
 ::pic
 ---
-src: https://oss.helong.online/bucket-IMG/29d43b8d42ab64d114be106e49dd572791a14094592c2c5e7e8818f11ec83ec1.png
+src: https://bu.dusays.com/2025/11/26/6926a62f743c6.png
 mirror: true
 caption: 磁盘UUID查询结果
 ---
@@ -51,7 +51,7 @@ caption: 磁盘UUID查询结果
 
 ::pic
 ---
-src: https://oss.helong.online/bucket-IMG/1269f460fd0346eb82a4c670833ae00e05ed9fb04aac8e8d1b26e600b1b7c83f.png
+src: https://bu.dusays.com/2025/11/26/6926a63c6ba57.png
 mirror: true
 caption: fstab文件编辑配置截图
 ---
@@ -99,7 +99,7 @@ caption: fstab文件编辑配置截图
 
 ::pic
 ---
-src: https://oss.helong.online/bucket-IMG/45dd4f2688e5a21684de01f148a3b2abde06ca7d30011bea0e9e970d9d7294f5.png
+src: https://bu.dusays.com/2025/11/26/6926a64cd6d28.png
 mirror: true
 caption: Docker信息查看显示Docker数据目录
 ---

@@ -3,7 +3,7 @@ title: 开源自动化神器n8n：安装与初体验
 description: 开源自动化神器n8n：安装与初体验
 date: 2025-09-20 22:49:41
 updated: 2025-09-20 22:49:41
-image: https://oss.helong.online/bucket-IMG/78982bbaa34bc0182addfcbc2244a3d25d443855510ffa62161af74958a3d4f4.png
+image: https://bu.dusays.com/2025/11/26/6926a1fb68b72.png
 # type: story
 categories: [工具]
 tags: [工具, n8n]
@@ -147,7 +147,7 @@ docker run -d \
 
   ::pic
   ---
-  src: https://oss.helong.online/bucket-IMG/86e258c8e03d794f774e62f5662d7efb6f7cb56d792cb1ff4b8d52c512fa2a06.png
+  src: https://bu.dusays.com/2025/11/26/6926a26e9d947.png
   mirror: true
   caption: Connect Lost
   ---
@@ -237,7 +237,7 @@ docker rm <container_id>
 使用N8N搭建的博客友情链接和RSS订阅服务
 ::pic
 ---
-src: https://oss.helong.online/bucket-IMG/9028d08a6f87d905d3a8e7ab4a0727eb44aced28e68f9287ebe6bdd937154994.png
+src: https://bu.dusays.com/2025/11/26/6926a2a89ce5f.png
 mirror: true
 caption: 使用N8N搭建的博客友情链接和RSS订阅服务
 ---

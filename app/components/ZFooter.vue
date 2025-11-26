@@ -23,8 +23,8 @@ const appConfig = useAppConfig()
 	</nav>
 	<div class="footer-bottom">
 		<p>
-			本站由 {{ blogConfig.author.name }} 使用 <ProseA href="https://github.com/HeLongaa/blog-v3">
-				纸鹿的开源博客
+			本站由 {{ blogConfig.author.name }} 使用 <ProseA href="https://github.com/HeLongy/blog" >
+				Clarity
 			</ProseA>主题创建。
 		</p>
 		<p>

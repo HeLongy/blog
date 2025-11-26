@@ -57,6 +57,7 @@ export default defineNuxtConfig({
 		'@/assets/css/main.scss',
 		'@/assets/css/reusable.scss',
 		'@/assets/css/HeWidget.scss',
+		'@/assets/css/font.scss',
 	],
 
 	features: {

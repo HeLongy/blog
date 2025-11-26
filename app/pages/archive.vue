@@ -92,7 +92,7 @@ const yearlyWordCount = computed(() => {
 .archive-title {
 	color: transparent;
     display: flex;
-    font-size: 4vw;
+    font-size: min(1.5em, 5vw);
     gap: 1em;
     justify-content: space-between;
     opacity: .5;
